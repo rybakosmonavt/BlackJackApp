@@ -1,2 +1,2 @@
 # BlackJackApp
-Test task to create a JavaScript App with HTML and CSS
+Just a completed learning task to create a JavaScript App with HTML and CSS
